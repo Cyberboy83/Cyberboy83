@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cyberboy83
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning frontend 
+- 🌱 I’m currently python 
 - 💞️ I’m looking to collaborate on some start_up
 - 📫 you can reach me with email and linkding
 - ⚡ Fun fact: im a lazy man XD
